@@ -1,0 +1,28 @@
+===============Sobre mim===============
+
+Meu nome é Pedro Henrique Borim Fernandes
+
+Sou muito interressado pela aréa de T.I
+
+Tenho alguns projetos facultativos, porém os meus projetos pessoais são mais bem feitos por enquanto,
+um dos meus projetos foi decicado a pessoa que eu estou me relacionando assim como muitos outros pro-
+jetos posteriores, porém aqui deixarei salvo aqueles aos quais julgo serem de interresse de empresas
+ou até mesmo estudantes, porém já aviso que todas as coisas postadas aqui terão e serão diacordo com 
+meu gosto pessoal e meus desejos por realizar algo, gosto de aprender muitas linguagens e questões 
+relacionadas a computador por exemplo Banco de dados, que está entre uma das minhas vontades de ser
+aprender e ser bom naquilo.
+
+1=Basico
+2=Intermediário
+3=Avançado
+
+
+Aprendidas{
+
+C(2)
+HTML
+CSS
+JavaScript(1,5)
+Banco de Dados(1)
+
+}
